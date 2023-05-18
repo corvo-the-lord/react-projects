@@ -31,10 +31,10 @@ a{
         background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 6, 24, 1) 100%);
     
 }
-.gradiant__text{
-    background-color: var(--gradient-text);
+.gradient__text{
+    background: var(--gradient-text);
     background-clip: text;
-    -webkit-background-clop: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
